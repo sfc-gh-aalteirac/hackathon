@@ -30,9 +30,9 @@ st.set_page_config(
 #      credentials = json.loads(j.read())
         
 connection_parameters = {
-  "account": 'ch14354.eu-central-1',
-  "user": 'TKO',
-  "password":"TKOLondon9",
+  "account": '',
+  "user": '',
+  "password":"",
   "role": "ACCOUNTADMIN",
   "warehouse": "PYTHON",
   "database": "UK Crime Data",
